@@ -2,6 +2,10 @@
 
 **English** · [Русский](README.ru.md)
 
+> **This is for people who do not program.**
+> **If you are a developer, this project is not for you:** it replaces skills you already have
+> with rules that an agent keeps for someone who does not have them.
+
 You are building something with Claude Code — a site, a bot, an app — and you are not a
 programmer. At first it goes great. Then, a few weeks in, the agent starts forgetting what was
 agreed, breaks what used to work, and the project gets harder and harder to steer.
@@ -20,8 +24,8 @@ This set fixes that with a simple discipline that Claude keeps for you:
 
 You don't need to learn any of this. Claude sets it up and follows it.
 
-**Status: experimental.** It works in the author's projects; with yours it is being tried now.
-Your feedback is how it gets better (see below).
+**Status: experimental.** This is a first version, and it is being tried now. Your feedback is how
+it gets better (see below).
 
 ## Install
 

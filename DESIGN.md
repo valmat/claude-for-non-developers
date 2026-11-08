@@ -3,10 +3,11 @@
 For whoever maintains the set, and for the installer agent. Agents working in a project do not
 read this file.
 
-**Status: experimental, v0.1.0.** Built from one maintainer's practice with coding agents across
-several projects: long-running work through handoffs, a coordinator/implementer split, and a
-process that let non-developers ship features through Claude without the maintainer. What carried
-over is stated as a principle; what is new here is marked as a hypothesis.
+**Status: experimental, v0.1.0.** Adapted from engineering practice with coding agents: work
+carried across sessions through handoffs, design separated from implementation, independent
+review. Developers work with these as developers, with their own judgment in the loop; this set is
+an adaptation for people without that background, and in this form it is new. What carried over is
+stated as a principle; what is new here is marked as a hypothesis.
 
 ## The problem
 
